@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kqin050 from University of Ottawa, majoring in Computer Engineering.
+- 👋 Hi, I’m Kun, from University of Ottawa, majoring in Computer Engineering.
 - 👀 I’m interested in Java.
 - 🌱 I’m currently learning Java Framework.
 - 💞️ I’m looking to collaborate on ...
